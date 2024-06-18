@@ -1,0 +1,7 @@
+Eres terrorista o eres antiterrorista
+Si es ronda de pistolas entonces compras granada
+Si eres terrorista entonces compras AK
+Si eres antiterrorista entonces compras AWP
+Si eres antiterrorista entonces no compras casco
+Si eres terrorista entonces compras Galil
+Si 
